@@ -2,14 +2,6 @@
 
 ## Presentation
 https://docs.google.com/presentation/d/11PLAgfoAIN9d0kkmzPJ8kPF35NBkFoYXQ18-x84yrbE/edit?slide=id.g3617f8a6fc8_2_9#slide=id.g3617f8a6fc8_2_9
-
-# Project Workflow
-1. Data Preparation & Exploration
-2. Feature Engineering
-3. Data Visualization & EDA
-4. Model Training & Evaluation
-5. Hyperparameter Tuning
-6. Advanced Predictions and Analysis
    
 # Project Overview
 This project leverages machine learning to predict calories burned during training sessions, based on physiological measurements, and generational fitness trends. The analysis includes classification of users into generations, heart rate zones, BMI categories, and provides model-driven recommendations for improving training outcomes.
@@ -81,8 +73,8 @@ Results printouts and barplots:
 * Searched across base decision tree depth, number of estimators, sample sizes, and bootstrapping options.
 
 * Performance improved significantly:
-  Baseline: RMSE ~8.78, R² ~0.98
-  Tuned: RMSE ~5.27, R² ~0.993
+*  Baseline: RMSE ~8.78, R² ~0.98
+* Tuned: RMSE ~5.27, R² ~0.993
   
 6. Advanced Predictions and Analysis
    
