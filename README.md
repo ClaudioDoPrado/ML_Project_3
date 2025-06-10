@@ -3,15 +3,7 @@
 ## Presentation
 https://docs.google.com/presentation/d/11PLAgfoAIN9d0kkmzPJ8kPF35NBkFoYXQ18-x84yrbE/edit?slide=id.g3617f8a6fc8_2_9#slide=id.g3617f8a6fc8_2_9
 
-# Table of Contents
-
-# Project Overview
-
-# Dataset
-
-# Objectives
 # Project Workflow
-
 1. Data Preparation & Exploration
 2. Feature Engineering
 3. Data Visualization & EDA
@@ -64,23 +56,23 @@ User_ID, Gender, Age, Height, Weight, Duration, Heart_Rate, Body_Temp, Calories
 
 4. Model Training & Evaluation
    
-# Preprocessing:
+Preprocessing:
 * Feature scaling with StandardScaler.
 * Train-test split.
 
-# Models Used:
+Models Used:
 * K-Nearest Neighbors (KNN)
 * Bagging Regressor (Decision Trees)
 * AdaBoost Regressor
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
-# Evaluation Metrics:
+Evaluation Metrics:
 * R² (coefficient of determination)
 * MAE (mean absolute error)
 * RMSE (root mean squared error)
 
-# Results printouts and barplots:
+Results printouts and barplots:
 * Compared each model’s performance on both train and test sets.
 
 5. Hyperparameter Tuning
@@ -106,5 +98,5 @@ User_ID, Gender, Age, Height, Weight, Duration, Heart_Rate, Body_Temp, Calories
 * Actionable Insight: Many users could further increase calories burned by aligning with recommended BPM and exercise types for their generation.
 
 ## Author
-   Claudio Do Prado
-   Vera Pinto
+Vera Pinto  Claudio Do Prado
+
