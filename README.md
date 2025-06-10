@@ -73,8 +73,8 @@ Results printouts and barplots:
 * Searched across base decision tree depth, number of estimators, sample sizes, and bootstrapping options.
 
 * Performance improved significantly:
-*  Baseline: RMSE ~8.78, R² ~0.98
-* Tuned: RMSE ~5.27, R² ~0.993
+  Baseline: RMSE ~8.78, R² ~0.98
+  Tuned: RMSE ~5.27, R² ~0.993
   
 6. Advanced Predictions and Analysis
    
@@ -90,5 +90,6 @@ Results printouts and barplots:
 * Actionable Insight: Many users could further increase calories burned by aligning with recommended BPM and exercise types for their generation.
 
 ## Author
-Vera Pinto  Claudio Do Prado
+Vera Pinto  
+Claudio Do Prado
 
